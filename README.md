@@ -46,14 +46,7 @@ A continuación, se presentan las visualizaciones principales generadas a partir
 </table>
 
 ---
-
-## Instrucciones para Visualizar los Gráficos
-
-**¡Importante!** Para que este archivo `README.md` muestre tus gráficos, debes seguir estos pasos:
-
-1.  En tu repositorio de Git, crea una carpeta llamada `graficos`.
-2.  Guarda tus 8 imágenes de los gráficos dentro de esa carpeta.
-3.  Renombra tus archivos de imagen para que coincidan *exactamente* con los nombres que usé en la tabla de arriba.
+<img width="915" height="790" alt="image" src="https://github.com/user-attachments/assets/13d487c7-4e5b-42b3-b6a4-985e6e04f3ad" />
 
 **Nombres de archivos requeridos:**
 
